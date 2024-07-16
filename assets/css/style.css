@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+.gallery-item{
+    display: inline-block;
+    height: auto;
+    margin: 3%;
+    padding: 3%;
+}
